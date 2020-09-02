@@ -1,0 +1,14 @@
+{
+  "name": "morning-news",
+  "version": "1.0.0",
+  "description": "A script for me to read all my morning news at once. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Madhav Sharma",
+  "license": "ISC",
+  "dependencies": {
+    "open": "^7.2.1"
+  }
+}
